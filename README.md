@@ -18,19 +18,26 @@ I'm an experienced iOS developer with a Bachelor's in Computer Software Engineer
 
 ### 🌟 **Professional Experience**
 
-- **iOS Developer | Technical Consultant, IntRest**
-  - Developed a health food app using VIPER architecture
-  - Integrated Stripe for secure payments and improved app maintainability
+- **iOS Developer | Technical Consultant, IntRest**  
+  - Spearheaded the development of a health food app from concept to deployment.  
+  - Utilized VIPER architecture to improve code modularity and scalability.  
+  - Integrated Stripe for secure payment handling and optimized app performance.  
+  - Refactored core components into reusable modules for easier maintenance.  
 
-- **iOS Developer, OrchidPharmed | Axon**
-  - Worked on EMR/PHR applications using MVVM architecture
-  - Created a no-loading UI and implemented best practices like Dependency Inversion
+- **iOS Developer, OrchidPharmed | Axon**  
+  - Led the development of EMR and PHR applications using MVVM architecture.  
+  - Designed a seamless no-loading user interface powered by the Repository pattern.  
+  - Implemented best practices for Dependency Inversion and mentored junior developers.  
+  - Customized SwiftLint rules to enforce coding standards and consistency across the team.  
 
-- **iOS Developer, Bdood bikes Co.**
-  - Developed a new bike-sharing app in 2 months with MVVM and RxSwift
+- **iOS Developer, Bdood bikes Co.**  
+  - Built a city-wide bike-sharing app using MVVM and RxSwift.  
+  - Conducted real-world testing to ensure smooth Bluetooth integration with Bdood bikes.  
 
-- **iOS Developer, OJ World Co.**
-  - Optimized app performance by reducing compile time from 5 minutes to 10 seconds
+- **iOS Developer, OJ World Co.**  
+  - Re-architected an existing app from MVC to MVVM, cutting compile times by over 90%.  
+  - Enhanced app performance and added new features like live broadcasting.  
+
 
 ---
 
@@ -45,6 +52,11 @@ I'm an experienced iOS developer with a Bachelor's in Computer Software Engineer
 ---
 
 ### 📫 **Get in Touch**
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadrezaansari)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mareza.ansary@gmail.com)
+[![StackOverFlow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9127912/mohammadreza-ansari)
 
-- **Email:** mareza.ansary@gmail.com  
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/mohammadrezaansari/)
+---
+
+### My Github Overview
+![MohammadReza's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammadRezaAnsari&show_icons=true&theme=ambient_gradient&rank_icon=github)
