@@ -1,7 +1,7 @@
 # Hi, I'm MohammadReza Ansari 👋  
 **iOS Developer | Problem Solver | Continuous Learner**
 
-I'm an experienced iOS developer with a Bachelor's in Computer Software Engineering and over 8 years of hands-on experience. Since 2016, I've specialized in Swift and delivered clean, efficient mobile apps while focusing on code quality and scalability.
+I'm an experienced iOS developer with a Bachelor's in Computer Software Engineering and over 9 years of hands-on experience. Since 2016, I've specialized in Swift and delivered clean, efficient mobile apps while focusing on code quality and scalability.
 
 ---
 
@@ -18,6 +18,12 @@ I'm an experienced iOS developer with a Bachelor's in Computer Software Engineer
 
 ### 🌟 **Professional Experience**
 
+- **iOS Developer, Snapp!**  
+  - Redesigned the login flow on the Driver application to enhance user experience and security.
+  - Developed a random authentication flow to bolster application security.
+  - Refactored and maintained application modules, adhering to SOLID principles.
+  - Implemented AVFoundation-based pre-validation to reduce server load.
+ 
 - **iOS Developer | Technical Consultant, IntRest**  
   - Spearheaded the development of a health food app from concept to deployment.  
   - Utilized VIPER architecture to improve code modularity and scalability.  
@@ -43,6 +49,7 @@ I'm an experienced iOS developer with a Bachelor's in Computer Software Engineer
 
 ### 🚀 **Featured Projects**
 
+- **[Snapp!](https://apps.apple.com/us/app/اسنپ-تاکسی-غذا-سوپرمارکت/id996370173)** – Snapp! is Iran’s leading on-demand platform offering ride-hailing, food delivery, and travel bookings to simplify daily tasks.
 - **[IntRest](https://apps.apple.com/ro/app/intrest/id6471991167)** – Intelligent food ordering app with health-based recommendations
 - **[Adena](https://apps.apple.com/us/app/adena/id1538268394)** – Business intelligence tool for tracking sales KPIs with offline mode and multi-touch charts
 - **Axon EMR/PHR** – Platforms for managing medical records and offering online consultations
