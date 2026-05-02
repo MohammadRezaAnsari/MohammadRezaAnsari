@@ -1,7 +1,10 @@
 # Hi, I'm MohammadReza Ansari 👋  
-**iOS Developer | Problem Solver | Continuous Learner**
+**📱 iOS Engineer | 🚀 Swift Architect |💡 Lifelong Learner**
 
-I'm an experienced iOS developer with a Bachelor's in Computer Software Engineering and over 9 years of hands-on experience. Since 2016, I've specialized in Swift and delivered clean, efficient mobile apps while focusing on code quality and scalability.
+
+I’m an iOS Engineer. I really enjoy coding and solving problems, and I like to keep things simple. At work, I am always open to learning new things and trying out new tech.
+When I am not working, you will probably find me enjoying nature. I believe in having a good balance: I love my job, and I love life. My goal is to always stay positive, keep an open mind, and bring good energy to everything I do.
+
 
 ---
 
@@ -19,37 +22,45 @@ I'm an experienced iOS developer with a Bachelor's in Computer Software Engineer
 ### 🌟 **Professional Experience**
 
 - **iOS Developer, Snapp!**  
-  - Redesigned the login flow on the Driver application to enhance user experience and security.
-  - Developed a random authentication flow to bolster application security.
-  - Refactored and maintained application modules, adhering to SOLID principles.
-  - Implemented AVFoundation-based pre-validation to reduce server load.
+  - Contributed to the SwiftUI migration and implementation of a new architecture.
+  - Rewrote Passenger Super-App to boost performance, scalability, and maintainability.
+  - Built a Dependency Injection Manager, decoupling modules and removing 100+ ties.
+  - Improved maintainability by enforcing best practices and high code quality.
+  - Redesigned driver login flow to enhance UX and security.
  
 - **iOS Developer | Technical Consultant, IntRest**  
-  - Spearheaded the development of a health food app from concept to deployment.  
-  - Utilized VIPER architecture to improve code modularity and scalability.  
-  - Integrated Stripe for secure payment handling and optimized app performance.  
-  - Refactored core components into reusable modules for easier maintenance.  
+  - Developed a health food app from initial design to launch.
+  - Applied VIPER architecture to enhance app modularity and maintainability.
+  - Integrated Stripe for secure and efficient payment processing.
+  - Refactored the app to include general modules, ensuring cleaner and maintainable code.
 
 - **iOS Developer, OrchidPharmed | Axon**  
-  - Led the development of EMR and PHR applications using MVVM architecture.  
-  - Designed a seamless no-loading user interface powered by the Repository pattern.  
-  - Implemented best practices for Dependency Inversion and mentored junior developers.  
-  - Customized SwiftLint rules to enforce coding standards and consistency across the team.  
-
-- **iOS Developer, Bdood bikes Co.**  
-  - Built a city-wide bike-sharing app using MVVM and RxSwift.  
-  - Conducted real-world testing to ensure smooth Bluetooth integration with Bdood bikes.  
+  - Used MVVM architecture to develop modular EMR and PHR applications.
+  - Implemented Visit Core for efficient data management.
+  - Designed a no-loading UI using the Repository pattern.
+  - Established and enforced best practices for Dependency Inversion.
+  - Mentored colleagues and guided code reviews.
 
 - **iOS Developer, OJ World Co.**  
-  - Re-architected an existing app from MVC to MVVM, cutting compile times by over 90%.  
-  - Enhanced app performance and added new features like live broadcasting.  
-
+  - Redesigned the application architecture to MVVM from a massive code base.
+  - Removed redundant code, reducing compile time from 5 minutes to less than 10s.
+  - Cleaned up deprecated code to streamline the app.
+  - Implemented new features for live broadcasting and streaming to enhance user engagement.
+ 
+- **iOS Developer, Pardazesh Negar Rashin Co.**  
+  - Worked with MVVM architecture and RxSwift as part of the team.
+  - Designed and implemented dynamic forms for better user interaction.
+  - Experience with RxSwift, RxCocoa, RxLocation, etc.
+  - Experience with Threads, GCD, and iOS memory management.
+  - Experience with auto layout, storyboards and nib files.
+  - Experience with Agile development philosophies and practices.
 
 ---
 
 ### 🚀 **Featured Projects**
 
 - **[Snapp!](https://apps.apple.com/us/app/اسنپ-تاکسی-غذا-سوپرمارکت/id996370173)** – Snapp! is Iran’s leading on-demand platform offering ride-hailing, food delivery, and travel bookings to simplify daily tasks.
+- **[Baly](https://apps.apple.com/at/app/baly-حجز-تكسي-توصيل-طعام-بلي/id1590560595)** – Iraqi ride-hailing service connecting passengers and drivers in real time via Super and Captain apps.
 - **[IntRest](https://apps.apple.com/ro/app/intrest/id6471991167)** – Intelligent food ordering app with health-based recommendations
 - **[Adena](https://apps.apple.com/us/app/adena/id1538268394)** – Business intelligence tool for tracking sales KPIs with offline mode and multi-touch charts
 - **Axon EMR/PHR** – Platforms for managing medical records and offering online consultations
